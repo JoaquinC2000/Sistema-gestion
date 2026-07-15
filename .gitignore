@@ -1,0 +1,11 @@
+# Ignorar dependencias descargadas de Node
+node_modules/
+dist/
+
+# Ignorar variables de entorno (contraseñas privadas)
+.env
+.env.local
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
